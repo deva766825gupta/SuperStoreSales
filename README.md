@@ -6,7 +6,6 @@ This Power BI project showcases the development of a comprehensive Sales Dashboa
 
 ![Main Dashboard](https://github.com/user-attachments/assets/9f819064-ec95-40d2-b13e-d020c6e92d83)
 
-
 ## **Features**
 - **Data Importation**: Learn how to import data from various sources into Power BI.
 - **Data Cleaning and Processing**: Techniques to clean and process raw data for accurate analysis.
@@ -16,7 +15,7 @@ This Power BI project showcases the development of a comprehensive Sales Dashboa
 - **Forecasting**: Incorporating forecasting tools in Power BI to predict future sales trends.
 - **Project Insights and Learnings**: Detailed insights and learnings gathered throughout the project.
 
-  ## **Usage**
+ ## **Usage**
 - **Interacting with Filters and Slicers**:
   - Use the filters and slicers on the dashboard to explore different aspects of the data.
   
