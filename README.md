@@ -14,5 +14,14 @@ This Power BI project showcases the development of a comprehensive Sales Dashboa
 - **Advanced Charts and Maps**: Implementation of advanced visualizations, including custom charts and geographic maps.
 - **Filters and Slicers**: Use of dynamic filters and slicers to interact with the data in real-time.
 - **Forecasting**: Incorporating forecasting tools in Power BI to predict future sales trends.
-- **Exporting**: Export the final dashboard as a PDF for sharing with stakeholders.
 - **Project Insights and Learnings**: Detailed insights and learnings gathered throughout the project.
+
+  ## **Usage**
+- **Interacting with Filters and Slicers**:
+  - Use the filters and slicers on the dashboard to explore different aspects of the data.
+  
+- **Visualizations**:
+  - Each visual represents different KPIs, such as total sales, profit margins, and geographic sales distribution.
+  
+- **Forecasting**:
+  - Analyze future sales trends using the forecasting tools integrated within the dashboard.
